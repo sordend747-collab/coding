@@ -3,12 +3,13 @@ Name = input('What is your name: ')
 Age = input ('What is your age: ')
 print('Hello my is ' + (Name) + ' Im ' + (Age) + ' years old. ')
 # string concatention
-# input() function automatically changes data into stings
+# input function automatically changes data into stings
+Strings 
 
 # Problem 2
 Bonus = '200'
-print(300 + Bonus) # result should be 500
-
+print(300 + Bonus ) # result should be 500
+Function
 
 # Problem 3
 Vaule = 'true'
