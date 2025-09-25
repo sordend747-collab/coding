@@ -38,7 +38,7 @@ def shapesmultiply(Length, width, height):
     print('calculate')
     print( shape )
 
-def calculatetheshape =(20*15*23)
+def calculatetheshape (20*15*23)
 
 
 
